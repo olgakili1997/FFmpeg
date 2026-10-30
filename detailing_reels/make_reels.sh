@@ -18,3 +18,5 @@ build() { r=$1; title="$2"; out=$3
 }
 build r1 'МОЙКА MAYBACH' detailing_01_moika_maybach.mp4
 build r2 'КЕРАМИКА КУЗОВА' detailing_02_keramika_g-class.mp4
+build r3 'МОЙКА МОТОЦИКЛА' detailing_03_moika_harley.mp4
+build r4 'ТОНИРОВКА СТЁКОЛ' detailing_04_tonirovka_vw.mp4
